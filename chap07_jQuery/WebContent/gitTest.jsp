@@ -1,3 +1,3 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
     pageEncoding="EUC-KR"%>
-내가 수정했어 한번 봐봐봐
+이게 뭐니 이걸 코딩이라고 한거니?
